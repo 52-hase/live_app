@@ -105,7 +105,7 @@ API: 外部音楽サービスのAPIを活用。Spotifyなど
 Figma：https://www.figma.com/board/OKJCxoKYBoldymLsJ65ihR/Untitled?node-id=0%3A1&t=h99Okn3CUmssK30x-1
 
 ### READMEに記載した機能
-- [ ] ユーザー認証機能（ログイン、ログアウト、メールアドレス変更、パスワード変更）
+- [ ] ユーザー認証機能 (ログイン、ログアウト、メールアドレス変更、パスワード変更)
 - [ ] チャット機能（ActionCable）
 - [ ] 画像のアップ機能
 - [ ] いいね機能
