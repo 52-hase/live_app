@@ -118,5 +118,4 @@ Figma：https://www.figma.com/board/OKJCxoKYBoldymLsJ65ihR/Untitled?node-id=0%3A
 
 ### メールアドレス・パスワード変更確認項目
 直接変更できるものではなく、一旦メールなどを介して専用のページで変更する画面遷移になっているか？
-- [ ] メールアドレス
 - [ ] パスワード
