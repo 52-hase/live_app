@@ -97,10 +97,6 @@ API: 外部音楽サービスのAPIを活用。Spotifyなど
 - RSpec
 
 
-
-
-
-
 ### 画面遷移図
 Figma：https://www.figma.com/board/OKJCxoKYBoldymLsJ65ihR/Untitled?node-id=0%3A1&t=LVJsXm6GHN7W2qk2-1
 
@@ -119,3 +115,9 @@ Figma：https://www.figma.com/board/OKJCxoKYBoldymLsJ65ihR/Untitled?node-id=0%3A
 ### メールアドレス・パスワード変更確認項目
 直接変更できるものではなく、一旦メールなどを介して専用のページで変更する画面遷移になっているか？
 - [ ] パスワード
+
+
+
+
+### ER図
+drawio：https://drive.google.com/file/d/1XiQqmXnuKYg-uxUN5sPH5lr9X92okIz6/view?usp=sharing
